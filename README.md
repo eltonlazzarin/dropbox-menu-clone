@@ -42,7 +42,6 @@ Technologies that I used to develop this frontend app
 
 - [ReactJS](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org)
-- [React-Sticky-Box](https://react-sticky-box.codecks.io)
 - [Styled-Icons](https://styled-icons.js.org)
 - [Styled-Components](https://styled-components.com)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
