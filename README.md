@@ -32,7 +32,7 @@
 	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/dropbox-menu-clone/blob/master/screenshots/dropbox.gif" />
 </h1>
 
-<p>Dropbox Menu Clone is a project developed in ReactJS in conjunction with TypeScript, where it shows an almost identical interface to the Dropbox menu with the CSS3 Climb property in navbar.
+<p>Dropbox Menu Clone is a project developed in ReactJS in conjunction with TypeScript, where it shows an almost identical interface to the Dropbox's official menu with the CSS3's property called Climb.
 
 This project includes the Mobile First concept, so it is fully responsive.</p>
 
